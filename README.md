@@ -22,7 +22,7 @@ Also, the lead engineer asked for a couple new features.
 The first is that we display _all_ students on the classroom show page instead
 of singling out the oldest student with a special note. The engineer thinks
 this isn't very polite.
-
+ 
 Second, they also want to add some search functionality so that a user can
 search for a student by name. They'll type the name in in a form field and
 we'll use the power of ActiveRecord to find matching data. It's OK if other
